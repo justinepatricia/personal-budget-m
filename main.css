@@ -32,8 +32,8 @@ div.menu ul li a {
     color: black;
     float: left;
     text-align: center;
-    padding: 35px 40px;
-    width: 35%;
+    padding: 20px 25px;
+    width: 40%;
     transition: all 0.3s ease 0s;
 
     /*line-height: 44px;*/
