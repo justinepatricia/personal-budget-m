@@ -44,7 +44,7 @@ div.menu ul li {
 }
 
 div.menu ul li a:hover  {
-    background-color: darkblue;
+    /*background-color: darkblue;*/
     color: #4d5791;
 }
 
@@ -74,6 +74,10 @@ div.hero h2 {
     color: #4d5791;
 }
 
+/*Add p*/
+p{
+    font-size: 25px;
+}
 .container {
     padding: 40px;
     width: 100%;
