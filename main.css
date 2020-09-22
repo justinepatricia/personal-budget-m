@@ -36,7 +36,7 @@ div.menu ul li a {
     width: 35%;
     transition: all 0.3s ease 0s;
 
-    line-height: 44px;
+    /*line-height: 44px;*/
     font-size: 1.6em;
     text-decoration: none;
     margin: 0;
