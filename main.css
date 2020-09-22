@@ -48,7 +48,7 @@ div.menu ul li a:hover  {
 }
 
 div.hero {
-    height: 350px;
+    height: 250px;
     background-color: #b4c6f0;
     background-image: url('/bg.png');
     background-size: 400px;
