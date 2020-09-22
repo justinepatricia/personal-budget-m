@@ -26,7 +26,8 @@ div.menu ul li {
     display: inline-block;
 }
 
-div.menu ul li a {
+/*div.menu ul*/
+ li a {
     /*Change/Added Code*/
     display: inline-block;
     color: black;
@@ -43,7 +44,7 @@ div.menu ul li a {
 }
 
 div.menu ul li a:hover  {
-    background-color: white;
+    background-color: darkblue;
     color: #4d5791;
 }
 
