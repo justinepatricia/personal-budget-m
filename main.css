@@ -82,7 +82,7 @@ div.hero h2 {
     it's original color to black
     color: #4d5791;*/
     color: white;
-    font-size: 20px bold; /*Added size and weight*/
+    font-size: 20px; /*Added size*/
 }
 
 /*Add p*/
