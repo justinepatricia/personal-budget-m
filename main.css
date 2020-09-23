@@ -114,6 +114,7 @@ footer{
     width: 100%;
     max-width: 340px;
     text-align: justify;
+    word-spacing: normal;
     margin: 20px;
 }
 
