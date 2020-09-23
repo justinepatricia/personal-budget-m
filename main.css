@@ -103,6 +103,10 @@ p{
 footer{
     font-size: 25px;
     text-align: center;
+    /*Added the .bottom code*/
+    height: 50px;
+    background-color: #b4c6f0;
+    padding: 40px;
 }
 
 .container div.text-box {
