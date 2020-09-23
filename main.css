@@ -55,7 +55,10 @@ div.hero {
     /*Changed background color to #3355A3
     background-color: #b4c6f0;*/
     background-color: #3355A3;
-    background-image: url('bg.png');
+    
+    /*Change background-image
+    background-image: url('bg.png');*/
+    background-image: url('bg2.jpg');
     background-size: 400px;
     background-repeat: no-repeat;
     background-position: center bottom;
