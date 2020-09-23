@@ -68,11 +68,6 @@ div.hero h2 {
     margin: 0;
 }
 
-/*This is another A11y change for color contrasting*/
-div.hero h2{
-    background-color: #2A2E37;
-}
-
 div.hero h1 {
     color: #fff;
     font-size: 4.2em;
@@ -80,7 +75,10 @@ div.hero h1 {
 }
 
 div.hero h2 {
-    color: #4d5791;
+    /*   This is another A11y change -- from 
+    it's original color to black
+    color: #4d5791;*/
+    color: black;
 }
 
 /*Add p*/
