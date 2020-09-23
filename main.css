@@ -68,6 +68,11 @@ div.hero h2 {
     margin: 0;
 }
 
+/*This is another A11y change for color contrasting*/
+div.hero h2{
+    color: #2A2E37;
+}
+
 div.hero h1 {
     color: #fff;
     font-size: 4.2em;
