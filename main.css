@@ -49,6 +49,10 @@ div.menu ul li a:hover  {
     color: #4d5791;
 }
 
+div.link li{
+    list-style-type: none;
+    text-align: center;
+}
 /*
 #links {
     padding: 0;
